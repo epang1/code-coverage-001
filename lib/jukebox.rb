@@ -1,5 +1,6 @@
 # A Jukebox filled with songs
 # that responds to help, list, play, and exit
+require 'pry'
 require_relative 'song'
 
 class Jukebox
